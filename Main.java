@@ -1,3 +1,4 @@
 public static void main(String[] args) {
-    System.out.println("Hello");
+    Deck deck = new Deck();
+    System.out.println(deck);
 }
